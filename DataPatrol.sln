@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "API", "API\API.csproj", "{DA57D7BA-3CBB-4D12-B403-27D4336A4DCF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinFormClient", "WinFormClient\WinFormClient.csproj", "{8896FCED-1336-4426-B6D7-4282DC748F75}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DA57D7BA-3CBB-4D12-B403-27D4336A4DCF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA57D7BA-3CBB-4D12-B403-27D4336A4DCF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA57D7BA-3CBB-4D12-B403-27D4336A4DCF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA57D7BA-3CBB-4D12-B403-27D4336A4DCF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8896FCED-1336-4426-B6D7-4282DC748F75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8896FCED-1336-4426-B6D7-4282DC748F75}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8896FCED-1336-4426-B6D7-4282DC748F75}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8896FCED-1336-4426-B6D7-4282DC748F75}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
